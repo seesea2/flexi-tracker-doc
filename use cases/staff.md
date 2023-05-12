@@ -1,5 +1,10 @@
 # Staffs
 
+## Default Staffs
+
+Add emails into file server/users.ini.
+The emails will be added into database as default staffs during server restart.
+
 ## Create Staff
 
 1. User is able to create other Staff.
@@ -13,18 +18,11 @@
    - Then staff can register again with new username/password.
    - The staff's activity / timeoff records will be kept intact.
 
-
 2. Edit
 
-    - Users with privileges can edit staff's profile
-    - Admin can edit staff's privilege.
+   - Users with privileges can edit staff's profile
+   - Admin can edit staff's privilege.
 
 ## Edit Privileges of Staff
 
 1. The feature is only available to Admin.
-
-
-## Default Staffs
-
-Add emails into ./server/users.ini file. 
-The emails will be added into database as default staffs during server restart. 

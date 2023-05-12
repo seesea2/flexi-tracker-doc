@@ -9,4 +9,4 @@
 ## Offday Taken
 
 1. No approval is needed for taking offday.
-2. Admin can take offday on behalf of users.
+2. Admin can create offday record on behalf of users.
