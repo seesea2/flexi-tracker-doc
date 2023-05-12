@@ -22,3 +22,9 @@
 ## Edit Privileges of Staff
 
 1. The feature is only available to Admin.
+
+
+## Default Staffs
+
+Add emails into ./server/users.ini file. 
+The emails will be added into database as default staffs during server restart. 
